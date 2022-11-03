@@ -2,5 +2,5 @@
 
 import wikipedia
 
-result = wikipedia.summary('Cienciadedados')
+result = wikipedia.summary('Computação')
 print(result)
